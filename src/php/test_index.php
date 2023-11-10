@@ -19,10 +19,5 @@
         <input type="text" placeholder="pasvord" name="pass">
         <button type="submit">log</button>
     </form>
-    
-    <?php
-    echo "1 ";
-    ?>
-
 </body>
 </html>
