@@ -20,5 +20,9 @@
         <button type="submit">log</button>
     </form>
     
+    <?php
+    echo "1 ";
+    ?>
+
 </body>
 </html>
